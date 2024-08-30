@@ -1,8 +1,0 @@
-Seguintes comandos para executar o app
-
-npm install
-npm install express
-npm start
-
-
-Usando o postgres como base de dados
